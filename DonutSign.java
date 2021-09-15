@@ -7,9 +7,7 @@ public class DonutSign{
 	**************************************
 	* Project description:
 	* Displays total price for sign based off of square footage and character count.
-	* Jeffrey Stanley
 	* Feb 17th, 2020
-	* CMSC 255 Section 3
 	***************************/
 	public static void main(String[] args){
 	Scanner input = new Scanner(System.in);

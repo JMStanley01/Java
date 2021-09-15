@@ -1,10 +1,8 @@
 /*******************************************************
-* Project 2 PalindromeCheck
+* Project PalindromeCheck
 ********************************
 * Dermines if given number is a palindrome
-* Jeffrey Stanley
 * Feb 6, 2020
-* CMSC 255 Section 3
 *****************/
 import java.util.Scanner;
 public class PalindromeCheck{
